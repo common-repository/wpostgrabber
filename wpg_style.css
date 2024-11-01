@@ -1,0 +1,29 @@
+.wpg_table {
+	width:100%;	
+}
+.wpg_table tr td {
+	padding:5px;	
+}
+.wpg_table tr:nth-child(odd) td {
+	background:#f9fff7;
+}
+.wpg_table tr:nth-child(even) td {
+	background:#fffaf2;
+}
+.wpg_table .wpg_table_header th {
+	background:#fff0bf;
+}
+.wpg_alert {
+	background:#fffce5;
+	border:1px dashed #f9cc8b;
+	padding:10px;
+	text-align:center;
+	color:#888888;
+	font-weight:bold;
+}
+
+.wpg_table .wpg_input_grabber  td {
+	margin:0 0 0 0;
+	background:#7fc5ff;
+	padding:10px;
+}
